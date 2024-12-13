@@ -7,7 +7,7 @@ https://github.com/nttcslab/japanese-dialog-transformers/tree/main
 
 発話データがオリジナルではないためID化されています。
 発話データとプロファイル情報を結び付けるために、
-このリポジトリをgit cloneした後で以下のリンクから発話データを取得して
+このリポジトリをgit cloneした後で以下のリンクから発話データ(japanese_persona_chat.xlsx)を取得して
 このreadmeファイルと同じフォルダに置いてください。
 
 https://github.com/nttcslab/japanese-dialog-transformers/tree/main
